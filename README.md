@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm B SUHAS
 
 CS undergrad at **MLR Institute of Technology and Management, Hyderabad**, currently on a structured 8-month journey toward becoming a **Robotics Software Engineer**.
 
